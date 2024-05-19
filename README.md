@@ -1,2 +1,4 @@
 # Engima-Machine-Project
-An implementation of encrypting and decrypting messages with Enigma machines used by Germany during WWII
+**An implementation of encrypting and decrypting messages with Enigma machines used by Germany during WWII (language: Java)**
+
+In this project, I delved into the intricate world of the Enigma machines, famed for their role in German military communications during World War II. Drawing inspiration from historical documentation and resources, I developed a simulator for a generalized version of these iconic cryptographic devices. From understanding the nuanced design and operation of the Enigma to implementing its algorithms, my program deciphers and encodes messages using a reciprocal encryption method. Through exploring substitution ciphers, progressive permutations, and rotor configurations, I recreated the complex mechanics of this historic encryption technology.
